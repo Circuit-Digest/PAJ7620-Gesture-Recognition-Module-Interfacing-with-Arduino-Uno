@@ -1,6 +1,6 @@
 # PAJ7620 Gesture Recognition Module with Arduino 🚀
 
-This repository contains code to [interface the PAJ7620 Gesture Recognition module with an Arduino]([url](https://circuitdigest.com/microcontroller-projects/introduction-to-paj7620-gesture-recognition-module)). The code also demonstrates how to display detected gestures on a 16x2 I2C LCD.
+This repository contains code to [interface the PAJ7620 Gesture Recognition module with an Arduino](https://circuitdigest.com/microcontroller-projects/introduction-to-paj7620-gesture-recognition-module)). The code also demonstrates how to display detected gestures on a 16x2 I2C LCD.
 
 ## Features ✨
 - Detects multiple gestures such as left, right, up, down, forward, backward, clockwise, and anti-clockwise movements.
